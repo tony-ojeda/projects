@@ -1,0 +1,3 @@
+[submodule "STATIC WEB/biokaiser"]
+	path = STATIC WEB/biokaiser
+	url = https://github.com/tony-ojeda/biokaiser.git
