@@ -1,3 +1,6 @@
 [submodule "STATIC_WEB/biokaiser"]
 	path = STATIC_WEB/biokaiser
 	url = https://github.com/tony-ojeda/biokaiser.git
+[submodule "ANGULAR/spotify-ng"]
+	path = ANGULAR/spotify-ng
+	url = https://github.com/tony-ojeda/spotify-ng.git
